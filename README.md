@@ -3,7 +3,7 @@ AI-powered spine health assistant using Gemini 3 Flash. Analyzes MRI images, tra
 # 🦴 Spine Advisor — AI-Powered MRI Analysis & Spine Health Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![AI](https://img.shields.io/badge/AI-Gemini--1.5--Flash-orange.svg)
+![AI](https://img.shields.io/badge/AI-Gemini--3--Flash-orange.svg)
 ![UI](https://img.shields.io/badge/UI-CustomTkinter-blueviolet.svg)
 
 **Spine Advisor** — интеллектуальное десктопное приложение для анализа здоровья позвоночника. Использует мультимодальную модель **Gemini 1.5 Flash** для интерпретации снимков МРТ, оценки симптомов и визуализации динамики лечения.
